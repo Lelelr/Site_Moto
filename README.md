@@ -4,6 +4,8 @@ Site vitrine présentant un catalogue de motos sous forme de cartes (image + nom
 
 🔗 **Démo en ligne :** [https://lelelr.github.io/Site_Moto/](https://lelelr.github.io/Site_Moto/)
 
+📅 **Dernière mise à jour :** 07/09/2026
+
 ## Aperçu
 
 - Header avec logo et navigation
