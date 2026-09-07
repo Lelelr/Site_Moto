@@ -195,6 +195,18 @@ ul {
   color: var(--text-muted);
 }
 
+.moto-card__power {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 4px 10px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--accent);
+  background-color: rgba(230, 57, 70, 0.12);
+  border: 1px solid rgba(230, 57, 70, 0.3);
+  border-radius: 20px;
+}
+
 /* ---------- Footer ---------- */
 .site-footer {
   background-color: var(--bg-darker);

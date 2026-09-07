@@ -26,12 +26,13 @@ Projet_DevOps/
 
 ## Catalogue actuel
 
-| Moto                | Catégorie |
-|----------------------|-----------|
-| BMW S1000RR          | Sportive  |
-| Honda CBR1000RR      | Sportive  |
-| BMW R1200GS          | Trail     |
-| Suzuki GSXS1000      | Roadster  |
+| Moto                | Catégorie | Puissance |
+|----------------------|-----------|-----------|
+| BMW S1000RR          | Sportive  | 207 ch    |
+| Honda CBR1000RR      | Sportive  | 189 ch    |
+| BMW R1200GS          | Trail     | 125 ch    |
+| Suzuki GSXS1000      | Roadster  | 152 ch    |
+| Yamaha XSR700        | Roadster  | 75 ch     |
 
 ## Utilisation
 
